@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+accelerate
+numpy
+pandas
+evaluate
+rouge-score
+scikit-learn
+jupyter
