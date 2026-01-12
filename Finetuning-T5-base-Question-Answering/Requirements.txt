@@ -1,0 +1,31 @@
+# Core deep learning
+torch==2.9.0
+torchvision
+torchaudio
+
+# Hugging Face ecosystem
+transformers>=4.44.0,<5.0.0
+datasets>=3.0.0
+accelerate>=0.30.0
+evaluate>=0.4.0
+huggingface-hub>=0.24.0
+
+# Tokenization & text processing
+sentencepiece
+protobuf
+
+# Training & utilities
+numpy
+tqdm
+scikit-learn
+
+# Experiment tracking (offline supported)
+wandb>=0.23.0
+
+# Visualization
+matplotlib
+seaborn
+
+# Optional: performance & stability
+psutil
+regex
